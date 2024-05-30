@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: 3scale/
-    repoURL: <your-own-repo-url>
+    repoURL: https://github.com/abdelhamidfg/3scale-gitops.git
     targetRevision: dev
   syncPolicy:
     syncOptions:
